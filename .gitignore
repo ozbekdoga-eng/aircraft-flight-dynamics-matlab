@@ -1,0 +1,7 @@
+.DS_Store
+*.asv
+*.m~
+*.mlx.autosave
+*.fig
+*.log
+__MACOSX/
